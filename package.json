@@ -1,7 +1,7 @@
 {
   "name": "react-use-svg",
   "version": "2.0.3",
-  "description": "A simple stateless react component for the svg `use` element",
+  "description": "A simple stateless react component for the svg use element",
   "main": "react-use-svg.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
