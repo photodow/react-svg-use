@@ -1,11 +1,10 @@
-[![npm version](https://badge.fury.io/js/react-svg-use.svg)](https://badge.fury.io/js/react-svg-use)
 
 # SVG `<Use />` React.js Component
 
 [SVG sprites are awesome](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)! This component saves you the time building and maintaining your own `<Use />` react component within your React.js projects.
 
 ## Installation
-`npm i react-svg-use -S`
+`npm install react-use-svg --save`
 
 ## How do I ... use it?
 First, set up your SVG sprite sheet so you have something similar to this:
@@ -24,10 +23,12 @@ First, set up your SVG sprite sheet so you have something similar to this:
 </svg>
 ```
 
+You can use a package like [react-svg-sprite](https://www.npmjs.com/package/react-svg-sprite) to help generate your SVG sprite using react.
+
 Then, simply import and use the icon where you need it
 
 ```javaScript
-import Icon from 'react-svg-use'
+import Icon from 'react-use-svg'
 
 React.createClass({
   render() {
