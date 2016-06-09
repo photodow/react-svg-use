@@ -1,7 +1,10 @@
+[![npm version](https://badge.fury.io/js/react-use-svg.svg)](https://badge.fury.io/js/react-use-svg)
+
+This `npm` package was forked from  [react-svg-use](https://www.npmjs.com/package/react-svg-use).
 
 # SVG `<Use />` React.js Component
 
-[SVG sprites are awesome](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)! This component saves you the time building and maintaining your own `<Use />` react component within your React.js projects.
+[SVG sprites are awesome](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)! This component saves you the time building and maintaining your own <Use /> react component within your React.js projects.
 
 ## Installation
 `npm install react-use-svg --save`
